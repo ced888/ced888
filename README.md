@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <em>Full Stack Developer </em>
+  <em>New Grad Full Stack Developer </em>
 </p>
 
 <p align="center">
