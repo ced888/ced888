@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## 🧑‍💻 About Me
 
 > 👨‍💻 I'm a recently graduated Full Stack Developer with strong backend skills, passionate about building web applications.
->
+> 🌱 Currently learning AWS.
 > 🌍 Currently in Canada but I am open to relocations, particularly interested in Japan!
 
 - 🔧 Specialized in C# .Net, TypeScript, Angular, React, DevOps, and Tech Support
